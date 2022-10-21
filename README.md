@@ -8,9 +8,7 @@
 > pip install -r requirements.txt
 > ```
 >
-> ```
 >
-> ```
 
 > - **Give Proper Mysql Credentials**
 >   - **Go to main.py fille and modify the credentials**
@@ -18,7 +16,6 @@
 >   - USER="PUT YOUR USERNAME"
 >   - DATABASE="GIVE YOUR DATABASE NAME"
 >   - PASSWORD="GIVE YOUR PASSWORD"
-
 
 > - Run the main.py file
 
